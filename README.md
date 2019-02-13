@@ -12,4 +12,8 @@
   You can also use the `gray box` in line!
   
   > This is also a good feauter
+  
+  field1 | field 2 | field3
+  --- | --- | ---|
+  1 | 2| 3
 
