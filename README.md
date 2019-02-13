@@ -18,3 +18,12 @@
   1 | 2| 3
 
 <h1> You can use HTML </h1>
+
+```mermaid
+graph TD;
+  A-->B;
+  A-->C;
+  B-->D;
+  C-->D;
+```
+
